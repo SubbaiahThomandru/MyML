@@ -1,0 +1,54 @@
+efficacy & accuracy 
+
+bias & variance
+trade off
+supervised & unsupervised 
+
+ROC curve
+
+Receiver operating characteristic
+
+sensitivity  of the model 
+
+precision and recall.
+
+ Bayes’ Theorem
+
+Naive” because it makes an assumption that is virtually impossible to see in real-life data: 
+
+ L1 and L2 regularization.
+
+
+ Type I and Type II error(Type I error is a false positive, while Type II error is a false negative. )
+A clever way to think about this is to think of Type I error as telling a man he is pregnant, while Type II error means you tell a pregnant woman she isn’t carrying a baby.
+
+
+Fourier transform
+smoothie recipe
+
+probability and likelihood
+
+generative and discriminative model
+
+What cross-validation technique would you use on a time series dataset
+
+decision tree pruned(reduced error pruning and cost complexity pruning)
+
+model accuracy, or model performance?
+
+F1 score(measure of a model’s performance)
+
+handle an imbalanced dataset
+
+handle missing or corrupted data in a dataset(isnull() and dropna()fillna() )
+
+psuedo-code for a parallel implementation
+
+How would you implement a recommendation system for our company’s users?
+What’s your favorite algorithm, and can you explain it to me in less than a minute?
+How can we use your machine learning skills to generate revenue?
+What do you think of our current data process?
+What are the last machine learning papers you’ve read?
+Do you have research experience in machine learning?
+Where do you usually source datasets?
+How do you think Google is training data for self-driving cars?
