@@ -4,14 +4,20 @@ Machine learning is the scientific study of algorithms and statistical models th
 This repo contains types of machine learning techniques and examples in python.
 
 Types of learning algorithms :
+
 1	Supervised and semi-supervised learning
+
   Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR, Decision Tree Regression, Random Forest       Regression
+  
   Classification: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification
+  
   Association Rule Learning: Apriori, Eclat
 
 2	Unsupervised learning
-   Clustering: K-Means, Hierarchical Clustering
+  
+  Clustering: K-Means, Hierarchical Clustering
 
 3	Reinforcement learning
+  
   Reinforcement Learning: Upper Confidence Bound, Thompson Sampling
 
